@@ -1,7 +1,7 @@
 {
   "name": "com.sneakysquirrellabs.litjson",
   "displayName": "LitJSON",
-  "version": "0.18.1",
+  "version": "0.18.2",
   "unity": "2021.3",
   "description": "A .NET library to handle conversions from and to JSON strings.",
   "keywords": [
